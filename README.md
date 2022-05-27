@@ -26,7 +26,7 @@ if(CD_A==CD_B) son iguales.
 
 if(CD_A<CD_B) a es el mayor.
 
-### CALCULAR LA CANTIDAD DE MONEDA
+### CALCULAR LA CANTIDAD DE MONEDAS
 
 #### Descripcion del problema
 Programa en c++ que nos ayuda a contar 2 denominaciones de monedas: 0.10 ctvs y 0.25 ctvs. Para saber cuantas tenemos de cada una y sacar el total de estas. 
@@ -45,7 +45,6 @@ while(CD_c<CD_n);  total de dinero ingresado.
 
 ### CALCULAR LA EDAD DE UNA PERSONA 
  
-
 #### Descripcion del problema
 Programa en c++ que nos ayuda a calcular la edad de una persona, para saber cuantos años, dias y meses tiene esta.
 
@@ -99,10 +98,9 @@ while(CD_c<CD_n)       el resultado de la suma total
 
 1.- clonar el repositorio en la máquina local.
 
-git clone 
+git clone https://github.com/ChilaDaniela/ACTIVIDAD-E2.git
 
 cd ACTIVIDAD-E2
-
 
 ### COMPILAR Y EJECUTAR
 
